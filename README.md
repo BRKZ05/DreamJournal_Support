@@ -2,7 +2,7 @@
 
 If you need help with the DreamJournal app, have questions, or want to report an issue, you can contact us here:
 
-**Email:** support@yourdomain.com
+**Email:** fawad-b@hotmail.com
 
 Please include:
 - Device model
